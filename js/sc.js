@@ -8,11 +8,11 @@ $(document).ready(function() {
             $(".navbar").removeClass("sticky");
             // $(".goTop").fadeOut();
         }
-        if(this.scrollY > 330) {
-            $('.gw').fadeIn();
-        } else {
-            $('.gw').fadeOut();
-        }
+//         if(this.scrollY > 330) {
+//             $('.gw').fadeIn();
+//         } else {
+//             $('.gw').fadeOut();
+//         }
     });
 
     // $(".goTop").click(function(){
